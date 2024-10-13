@@ -1,8 +1,0 @@
-{
-  "parent": "block/orientable",
-  "textures": {
-    "top": "customportalmod:block/random_tick_block_sides",
-    "front": "customportalmod:block/random_tick_block_3_disabled",
-    "side": "customportalmod:block/random_tick_block_sides"
-  }
-}

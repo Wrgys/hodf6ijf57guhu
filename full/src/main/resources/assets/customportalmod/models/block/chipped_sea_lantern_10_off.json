@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "customportalmod:block/chipped_sea_lantern_10_off"
-  }
-}
