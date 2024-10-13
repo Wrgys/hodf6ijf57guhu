@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "customportalmod:block/wportalblock_ns"
+    },
+    "axis=z": {
+      "model": "customportalmod:block/wportalblock_ew"
+    }
+  }
+}

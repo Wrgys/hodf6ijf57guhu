@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "customportalmod:block/sea_lantern_off"
+  }
+}

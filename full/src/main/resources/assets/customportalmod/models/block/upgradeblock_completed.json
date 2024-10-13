@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "customportalmod:block/upgradeblock_completed"
+  }
+}
